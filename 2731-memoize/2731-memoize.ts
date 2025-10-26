@@ -1,13 +1,13 @@
 type Fn = (...params: number[]) => number
 
 function memoize(fn: Fn): Fn {
-    const cacheMap = {};
+    const cacheMap = new Map();
     return function(...args) {
         const key = args.join(',');
-        if(cacheMap[key] !== undefined) return cacheMap[key]
+        if(cacheMap.has(key)) return cacheMap.get(key)
 
         const value = fn(...args)
-        cacheMap[key] = value;
+        cacheMap.set(key, value)
         return value;
     }
 }
