@@ -1,39 +1,36 @@
 function convert(s: string, numRows: number): string {
+    if(numRows === 1) return s;
     const t = numRows - 1;
-    if(t === 0) return s;
 
-    const len = s.length;
-    let result = '';
+    const calcIndex = (n: number) => (2 * n - 2) * t
 
-    (() => {
+    const getEdgeRow = (i: number) => {
         let n = 1;
-        while(s[(2 * n - 2) * t]){
-            result += s[(2 * n - 2) * t]
+        let row = '';
+        while(s[calcIndex(n) + i]){
+            row += s[calcIndex(n) + i]
             n++;
         }
-    })()
+        return row
+    }
 
-
+    let result = '';
+    result += getEdgeRow(0)
+    
     for(let i = 1; i < t; i++){
         (() => {
             let n = 1;
-            while(s[(2 * n - 2) * t + i]){
-                result += s[(2 * n - 2) * t + i]
-                if(s[(2 * (n + 1) - 2) * t - i]){
-                    result += s[(2 * (n + 1) - 2) * t - i]
+            while(s[calcIndex(n) + i]){
+                result += s[calcIndex(n) + i]
+                if(s[calcIndex(n + 1) - i]){
+                    result += s[calcIndex(n + 1) - i]
                 }
                 n++
             }
         })()
     }
 
-    (() => {
-        let n = 1;
-        while(s[(2 * n - 1) * t]){
-            result += s[(2 * n - 1) * t]
-            n++
-        }
-    })()
+    result += getEdgeRow(t)
 
     return result
 };
