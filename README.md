@@ -11,4 +11,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Jong1co/Leetcode/tree/master/0007-reverse-integer) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Jong1co/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Jong1co/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
