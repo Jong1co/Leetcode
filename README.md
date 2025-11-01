@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jong1co/Leetcode/tree/master/0013-roman-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jong1co/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jong1co/Leetcode/tree/master/0011-container-with-most-water) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jong1co/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jong1co/Leetcode/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jong1co/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
