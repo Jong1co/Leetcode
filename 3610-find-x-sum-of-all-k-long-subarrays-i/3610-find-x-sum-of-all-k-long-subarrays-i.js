@@ -16,7 +16,7 @@ var findXSum = function(nums, k, x) {
             }, {})
 
         const sum = Object.entries(map)
-            .sort((a, b) => b[1] === a[1] ? b[0] - a[0] : b[1] - a[1])
+            .sort((a, b) => b[1] - a[1] || b[0] - a[0])
             .slice(0, x)
             .reduce((acc, cur) => acc + cur[0] * cur[1], 0)
             
