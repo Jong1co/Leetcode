@@ -16,7 +16,7 @@ var intToRoman = function(num) {
         M:1000
     }
 
-    const list2 = [['I', 'V', 'X'], ['X', 'L', 'C'], ['C', 'D', 'M']]
+    const list2 = [['I', 'V', 'X'], ['X', 'L', 'C'], ['C', 'D', 'M'], ['M', 'M', 'M']]
 
     while(num !== 0){
         const r = num % unit;
@@ -27,9 +27,6 @@ var intToRoman = function(num) {
 
     return result.map((item, index) => {
         const keyList = list2[index]
-        if(!keyList) {
-            return 'M'.repeat(item / 1000)    
-        }
 
         const [a, b, c] = keyList
         if(romanMap2[c] - romanMap2[a] === item) return `${a}${c}`
