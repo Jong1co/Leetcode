@@ -10,18 +10,31 @@
  * @return {ListNode}
  */
 var deleteDuplicates = function(head) {
-    const dummy = new ListNode(null);
-    let tail = dummy
+    let result = head;
     
-    while(head?.val !== undefined){
-        if(tail?.val === head.val){
-            head = head.next
-        } else {
-            tail.next = new ListNode(head.val);
-            head = head.next;
-            tail = tail.next;
+    while(result?.next){
+        while(result?.next?.val === result.val){
+            result.next = result.next.next;
         }
+        result = result.next;
     }
 
-    return dummy.next;
+    return head;
 };
+
+// var deleteDuplicates = function(head) {
+//     const dummy = new ListNode(null);
+//     let tail = dummy
+    
+//     while(head?.val !== undefined){
+//         if(tail?.val === head.val){
+//             head = head.next
+//         } else {
+//             tail.next = new ListNode(head.val);
+//             head = head.next;
+//             tail = tail.next;
+//         }
+//     }
+
+//     return dummy.next;
+// };
