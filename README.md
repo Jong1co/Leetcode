@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jong1co/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jong1co/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Jong1co/Leetcode/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jong1co/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
@@ -75,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jong1co/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Jong1co/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
