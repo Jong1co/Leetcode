@@ -10,12 +10,44 @@
  * @return {ListNode}
  */
 var reverseList = function(head) {
-    let front;
+    let front = null;
+    let current = head;
     
-    while(head?.val !== undefined){
-        front = new ListNode(head.val, front);
-        head = head.next;
+    while(current){
+        let temp = current.next;
+        current.next = front;
+        front = current;
+        current = temp;
     }
 
-    return front ?? head;
+    return front
 };
+
+/**
+    let prev = null;
+    let curr = head;
+    // Below given is similar to while(curr != null)
+    while(curr) {
+        let temp = curr.next;
+        curr.next = prev;
+        prev = curr;
+        curr = temp;
+    }
+
+
+
+    head = prev; 
+    return head;
+
+    prev가 존재함
+    prev = null;
+    current = head;
+
+    while(current){
+        let temp = current.next;
+        current.next = prev;
+        prev = current;
+        current = temp;
+    }
+
+ */
