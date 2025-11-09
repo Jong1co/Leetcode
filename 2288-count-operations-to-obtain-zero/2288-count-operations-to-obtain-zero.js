@@ -7,11 +7,14 @@ var countOperations = function(num1, num2) {
   let result = 0;
   while(num1 && num2){
     if(num1 >= num2){
-        num1 -= num2
+        const q = Math.floor(num1 / num2)
+        num1 -= (num2 * q)
+        result += q
     } else {
-        num2 -= num1
+        const q = Math.floor(num2 / num1)
+        num2 -= (num1 * q)
+        result += q
     }
-    result++
   }
   return result
 };
