@@ -11,12 +11,11 @@
  * @return {boolean}
  */
 var hasCycle = function(head) {
-    let current = head;
     if(!head) return false
-    while(current && !current?.isPassed){
-        if(current?.next === null) return false;
-        current.isPassed = true
-        current = current.next
+    while(head && !head?.isPassed){
+        if(head?.next === null) return false;
+        head.isPassed = true
+        head = head.next
     }
     return true
 };
