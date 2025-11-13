@@ -10,12 +10,12 @@
  * @return {boolean}
  */
 var isPalindrome = function (head) {
-    let s = '', p = '';
-    let cur = head;
+    let s = "", p = ""
+    let cur = head
     while(cur){
-        s += cur.val;
-        p = cur.val + p;
-        cur = cur.next;
+        s+=(cur.val)
+        p = cur.val + p
+        cur = cur.next
     }
-    return s == p;
+    return s==p
 }
