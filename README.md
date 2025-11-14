@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Jong1co/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Jong1co/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jong1co/Leetcode/tree/master/0013-roman-to-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jong1co/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Jong1co/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Jong1co/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Jong1co/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Jong1co/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jong1co/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jong1co/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jong1co/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
