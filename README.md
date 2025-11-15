@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jong1co/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Jong1co/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jong1co/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0816-design-hashset](https://github.com/Jong1co/Leetcode/tree/master/0816-design-hashset) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jong1co/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Jong1co/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jong1co/Leetcode/tree/master/0011-container-with-most-water) |
+| [0816-design-hashset](https://github.com/Jong1co/Leetcode/tree/master/0816-design-hashset) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Jong1co/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Jong1co/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jong1co/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Jong1co/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Jong1co/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jong1co/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0816-design-hashset](https://github.com/Jong1co/Leetcode/tree/master/0816-design-hashset) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jong1co/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jong1co/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
@@ -96,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Jong1co/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Jong1co/Leetcode/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Jong1co/Leetcode/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
