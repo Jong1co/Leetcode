@@ -16,7 +16,7 @@ MyHashSet.prototype.add = function(key) {
  * @return {void}
  */
 MyHashSet.prototype.remove = function(key) {
-    this.obj[key] = false;
+    delete this.obj[key]
 };
 
 /** 
