@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jong1co/Leetcode/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/Jong1co/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Jong1co/Leetcode/tree/master/0066-plus-one) |
 | [0816-design-hashset](https://github.com/Jong1co/Leetcode/tree/master/0816-design-hashset) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Jong1co/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Jong1co/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Jong1co/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
