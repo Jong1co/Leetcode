@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Jong1co/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Jong1co/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Jong1co/Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Jong1co/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Jong1co/Leetcode/tree/master/0066-plus-one) |
 | [0445-add-two-numbers-ii](https://github.com/Jong1co/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jong1co/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Jong1co/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jong1co/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Jong1co/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Jong1co/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Jong1co/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Jong1co/Leetcode/tree/master/0206-reverse-linked-list) |
