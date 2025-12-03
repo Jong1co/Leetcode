@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jong1co/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Jong1co/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Jong1co/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Jong1co/Leetcode/tree/master/0067-add-binary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Jong1co/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Math
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jong1co/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Jong1co/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Jong1co/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Jong1co/Leetcode/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/Jong1co/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jong1co/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Jong1co/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Jong1co/Leetcode/tree/master/0067-add-binary) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Jong1co/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Jong1co/Leetcode/tree/master/0067-add-binary) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Jong1co/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Jong1co/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Jong1co/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
