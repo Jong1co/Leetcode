@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jong1co/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jong1co/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jong1co/Leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Jong1co/Leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Jong1co/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Jong1co/Leetcode/tree/master/0066-plus-one) |
 | [0816-design-hashset](https://github.com/Jong1co/Leetcode/tree/master/0816-design-hashset) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Jong1co/Leetcode/tree/master/1925-count-square-sum-triples) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Jong1co/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
