@@ -1,17 +1,7 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
 var singleNumber = function(nums) {
-    const map = new Map();
-
-    nums.forEach((num) => {
-        if(map.has(num)){
-            map.delete(num)
-        } else {
-            map.set(num, true)
-        }
-    })
-
-    return map.keys().next().value
+    let result = 0;
+    for (let i=0; i<nums.length; i++) {
+        result = result ^ nums[i];
+    }
+    return result;
 };
