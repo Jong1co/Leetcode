@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Jong1co/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Jong1co/Leetcode/tree/master/0136-single-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Jong1co/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Jong1co/Leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Jong1co/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Jong1co/Leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Jong1co/Leetcode/tree/master/0136-single-number) |
 | [0816-design-hashset](https://github.com/Jong1co/Leetcode/tree/master/0816-design-hashset) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Jong1co/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Jong1co/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
