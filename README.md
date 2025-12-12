@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jong1co/Leetcode/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/Jong1co/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jong1co/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Jong1co/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Jong1co/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Jong1co/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Jong1co/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Jong1co/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Jong1co/Leetcode/tree/master/0136-single-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Jong1co/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Jong1co/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Jong1co/Leetcode/tree/master/0136-single-number) |
 | [0816-design-hashset](https://github.com/Jong1co/Leetcode/tree/master/0816-design-hashset) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Jong1co/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Jong1co/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Jong1co/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Jong1co/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Jong1co/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -197,9 +200,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Jong1co/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Jong1co/Leetcode/tree/master/1925-count-square-sum-triples) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Jong1co/Leetcode/tree/master/0039-combination-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Jong1co/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Jong1co/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
