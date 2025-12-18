@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jong1co/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Jong1co/Leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Jong1co/Leetcode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Jong1co/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Jong1co/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Jong1co/Leetcode/tree/master/0136-single-number) |
 | [0816-design-hashset](https://github.com/Jong1co/Leetcode/tree/master/0816-design-hashset) |
@@ -121,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Jong1co/Leetcode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Jong1co/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Jong1co/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Jong1co/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Jong1co/Leetcode/tree/master/0067-add-binary) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Jong1co/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Jong1co/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
