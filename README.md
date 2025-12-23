@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Jong1co/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Jong1co/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Jong1co/Leetcode/tree/master/0136-single-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jong1co/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0816-design-hashset](https://github.com/Jong1co/Leetcode/tree/master/0816-design-hashset) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Jong1co/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Jong1co/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jong1co/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Jong1co/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Jong1co/Leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
@@ -229,4 +231,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jong1co/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jong1co/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jong1co/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Jong1co/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
